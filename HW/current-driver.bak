@@ -324,9 +324,9 @@ Wire Wire Line
 Wire Wire Line
 	3900 2350 3900 2250
 Wire Wire Line
-	3750 2250 3900 2250
+	3900 2250 3750 2250
 Wire Wire Line
-	3750 1650 3750 2250
+	3750 2250 3750 1650
 Wire Wire Line
 	3350 2650 3600 2650
 Wire Wire Line
