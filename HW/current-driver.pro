@@ -1,4 +1,4 @@
-update=29/07/2014 06:25:06
+update=2014.07.31. 8:47:43
 version=1
 last_client=pcbnew
 [cvpcb]
@@ -52,10 +52,10 @@ LibName31=valves
 version=1
 LastNetListRead=
 UseCmpFile=1
-PadDrill=0.600000000000
-PadDrillOvalY=0.600000000000
-PadSizeH=1.500000000000
-PadSizeV=1.500000000000
+PadDrill=1.200000000000
+PadDrillOvalY=1.200000000000
+PadSizeH=2.200000000000
+PadSizeV=2.200000000000
 PcbTextSizeV=1.500000000000
 PcbTextSizeH=1.500000000000
 PcbTextThickness=0.300000000000
@@ -90,3 +90,4 @@ LibName18=led
 LibName19=dip_sockets
 LibName20=pga_sockets
 LibName21=valves
+LibName22=SOB
