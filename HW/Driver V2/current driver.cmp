@@ -1,0 +1,101 @@
+Cmp-Mod V01 Created by Cvpcb (after 2015-mar-04 BZR unknown)-product   date = 2015.05.27. 5:25:45
+
+BeginCmp
+TimeStamp = /55602FB1;
+Reference = C1;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_ThroughHole:C_Rect_L4_W2.5_P2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /55602FE1;
+Reference = C2;
+ValeurCmp = 4,7uF;
+IdModule  = Capacitors_Elko_ThroughHole:Elko_vert_11x5mm_RM2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /5564E061;
+Reference = C3;
+ValeurCmp = 100pF;
+IdModule  = Capacitors_ThroughHole:C_Rect_L4_W2.5_P2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /55602942;
+Reference = F1;
+ValeurCmp = 10A F;
+IdModule  = Fuse_Holders_and_Fuses:Fuseholder5x20_horiz_SemiClosed_Casing10x25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /55602373;
+Reference = J1;
+ValeurCmp = IN;
+IdModule  = suf_connector_ncw:CONN_NCW254-02R;
+EndCmp
+
+BeginCmp
+TimeStamp = /556028B8;
+Reference = J2;
+ValeurCmp = PWR;
+IdModule  = suf_connector_ncw:CONN_NCW396-02R;
+EndCmp
+
+BeginCmp
+TimeStamp = /556091FB;
+Reference = J3;
+ValeurCmp = OUT1;
+IdModule  = suf_connector_ncw:CONN_NCW396-02R;
+EndCmp
+
+BeginCmp
+TimeStamp = /55602865;
+Reference = J4;
+ValeurCmp = OUT2;
+IdModule  = suf_connector_ncw:CONN_NCW396-02R;
+EndCmp
+
+BeginCmp
+TimeStamp = /55602817;
+Reference = Q1;
+ValeurCmp = PHP27NQ11T;
+IdModule  = Transistors_TO-220:TO-220_Neutral123_Horizontal_LargePads;
+EndCmp
+
+BeginCmp
+TimeStamp = /55602300;
+Reference = R1;
+ValeurCmp = 220;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /55602243;
+Reference = R2;
+ValeurCmp = 1K;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /556022B2;
+Reference = R3;
+ValeurCmp = 1K;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /55602188;
+Reference = U1;
+ValeurCmp = 4N25;
+IdModule  = Housings_DIP:DIP-6__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /556027B4;
+Reference = U2;
+ValeurCmp = MC33151;
+IdModule  = Housings_DIP:DIP-8__300_ELL;
+EndCmp
+
+EndListe
